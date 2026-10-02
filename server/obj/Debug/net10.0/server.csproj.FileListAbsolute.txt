@@ -1,0 +1,14 @@
+C:\Users\Kirill\Desktop\Teach\Git_projects\College\ISRPO\Lab4_ISRPO_Toranik\server\obj\Debug\net10.0\server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kirill\Desktop\Teach\Git_projects\College\ISRPO\Lab4_ISRPO_Toranik\server\obj\Debug\net10.0\server.AssemblyInfoInputs.cache
+C:\Users\Kirill\Desktop\Teach\Git_projects\College\ISRPO\Lab4_ISRPO_Toranik\server\obj\Debug\net10.0\server.AssemblyInfo.cs
+C:\Users\Kirill\Desktop\Teach\Git_projects\College\ISRPO\Lab4_ISRPO_Toranik\server\obj\Debug\net10.0\server.csproj.CoreCompileInputs.cache
+C:\Users\Kirill\Desktop\Teach\Git_projects\College\ISRPO\Lab4_ISRPO_Toranik\server\bin\Debug\net10.0\server.exe
+C:\Users\Kirill\Desktop\Teach\Git_projects\College\ISRPO\Lab4_ISRPO_Toranik\server\bin\Debug\net10.0\server.deps.json
+C:\Users\Kirill\Desktop\Teach\Git_projects\College\ISRPO\Lab4_ISRPO_Toranik\server\bin\Debug\net10.0\server.runtimeconfig.json
+C:\Users\Kirill\Desktop\Teach\Git_projects\College\ISRPO\Lab4_ISRPO_Toranik\server\bin\Debug\net10.0\server.dll
+C:\Users\Kirill\Desktop\Teach\Git_projects\College\ISRPO\Lab4_ISRPO_Toranik\server\bin\Debug\net10.0\server.pdb
+C:\Users\Kirill\Desktop\Teach\Git_projects\College\ISRPO\Lab4_ISRPO_Toranik\server\obj\Debug\net10.0\server.dll
+C:\Users\Kirill\Desktop\Teach\Git_projects\College\ISRPO\Lab4_ISRPO_Toranik\server\obj\Debug\net10.0\refint\server.dll
+C:\Users\Kirill\Desktop\Teach\Git_projects\College\ISRPO\Lab4_ISRPO_Toranik\server\obj\Debug\net10.0\server.pdb
+C:\Users\Kirill\Desktop\Teach\Git_projects\College\ISRPO\Lab4_ISRPO_Toranik\server\obj\Debug\net10.0\server.genruntimeconfig.cache
+C:\Users\Kirill\Desktop\Teach\Git_projects\College\ISRPO\Lab4_ISRPO_Toranik\server\obj\Debug\net10.0\ref\server.dll
